@@ -1,4 +1,4 @@
-# Spotify-Music-Analysis
+# Spotify-Music-Analysis-Power BI
 
 ![image](https://github.com/user-attachments/assets/d020ed89-eecb-4244-b71f-7944184c5815)
 
