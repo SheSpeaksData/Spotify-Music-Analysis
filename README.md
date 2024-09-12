@@ -3,8 +3,7 @@
 ![image](https://github.com/user-attachments/assets/d020ed89-eecb-4244-b71f-7944184c5815)
 
 # Background
-This Power BI dashboard provides a comprehensive overview of Spotify’s streaming data. It includes key performance indicators such as total streams, total revenue, and monthly active users. The dashboard is designed to offer insights into streaming trends, song characteristics, and the performance of top tracks and artists. Additionally, this is a dynamic dashboard, meaning it updates in real-time to reflect the latest data.
-
+This Power BI dashboard provides a comprehensive overview of Spotify’s streaming data. It includes key performance indicators such as total streams, total revenue, and monthly active users. The dashboard is designed to offer insights into streaming trends, song characteristics, and the performance of top tracks and artists. Additionally, this is a dynamic dashboard, meaning it updates in real-time to reflect the latest data captured in 2023.
 # Key Insights
 
 **Total Streams and Revenue:**
@@ -38,5 +37,7 @@ The dashboard includes gauge visuals that compare Spotify streams to Apple Music
 
 # Conclusion
 This dynamic Power BI dashboard effectively visualizes Spotify’s streaming data, offering valuable insights into user engagement, revenue generation, and musical trends. It is a powerful tool for stakeholders and analysts to understand the dynamics of the music streaming industry and make informed decisions based on data-driven insights.
+
+**Data Source:** Kaggle - https://www.kaggle.com/code/lcolon/spotify-2023-focus-on-artists?scriptVersionId=192971895 
 
 If you need any more details or further analysis, feel free to ask! 🎵📊
