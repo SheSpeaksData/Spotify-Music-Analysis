@@ -2,7 +2,7 @@
 
 ![image](https://github.com/user-attachments/assets/d020ed89-eecb-4244-b71f-7944184c5815)
 
-**Background**
+# Background
 This Power BI dashboard provides a comprehensive overview of Spotify’s streaming data. It includes key performance indicators such as total streams, total revenue, and monthly active users. The dashboard is designed to offer insights into streaming trends, song characteristics, and the performance of top tracks and artists. Additionally, this is a dynamic dashboard, meaning it updates in real-time to reflect the latest data.
 
 # Key Insights
